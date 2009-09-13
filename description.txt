@@ -1,0 +1,1 @@
+Allows fonts and backgrounds to be customized in the Jojo CAPTCHA.
